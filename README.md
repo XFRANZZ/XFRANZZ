@@ -1,3 +1,4 @@
 <h2> Hello!👋, I'm Franz from Indonesia 🇮🇩</h2>
 
-https://camo.githubusercontent.com/22d06eab0c94b56c23afd6dc12d997531061b937d7b021975c2bd7545a11c8e4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62616775736665266c61796f75743d636f6d70616374
+
+Currently working at home, but I like to learn new things in programming like PHP, Python ,shell
